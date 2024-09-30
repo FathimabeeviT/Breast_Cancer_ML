@@ -7,6 +7,9 @@ This project start with load data. secondly data preprocessing(this data set no 
 4. Support Vector Machine (SVM)-( SVM is a supervised machine learning algorithm that classifies data by finding an optimal line or hyperplane that maximizes the distance between each class in an N-dimensional space.This algorithm works by finding the hyperplane that best separates the data points of different classes. In a two-dimensional space, this hyperplane is simply a line, but in higher dimensions, it becomes a hyperplane.
 SVM is a strong choice if our dataset involves high-dimensional data, non-linear relationships, or you need a model with good generalization capabilities.)
 5. k-Nearest Neighbors (k-NN)-(This algorithm used for classification (and sometimes regression) tasks. It is based on the principle that similar data points are close to each other in feature space.k-NN is a good choice if we have a dataset where the relationship between features and classes is well-defined in terms of proximity in the feature space, and you prefer a model that is easy to understand and implement.
-conclusion: 1. Logistic Regression achieved the highest accuracy score of 97.2%.
-. Decision Tree Classifier performed the worst with an accuracy score of 93.7%.
+
+
+conclusion:
+. Logistic Regression achieved the highest accuracy score of 97.2%.
+. Decision Tree Classifier performed the worst with an accuracy score of 93.7%. this data set perfectly suitable for Logistic Regression.
    
